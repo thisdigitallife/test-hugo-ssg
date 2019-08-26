@@ -1,19 +1,21 @@
-title: Stackbit Fjord Theme
+title: Locked In Time
 baseURL: /
 params:
-  palette: yellow
+  footer:
+    content: '&copy; Pradyumna. All rights reserved.'
+    links:
+      - new_window: true
+        text: Made with Stackbit
+        url: 'https://www.stackbit.com'
   header:
-    title: Fjord
-    tagline: Minimal and clean blog theme
-    logo_img: images/logo.png
     bg_img: images/header-bg.jpg
     has_nav: true
     has_social: true
-  footer:
-    content: '&copy; Stackbit-Fjord. All rights reserved.'
-    links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
-        new_window: true
+    logo_img: images/logo.png
+    tagline: A portal where time comes to a standstill
+    title: Locked In Time
+  palette: yellow
+menu:
+  main: []
 disableKinds:
   - RSS
