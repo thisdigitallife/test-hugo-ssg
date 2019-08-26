@@ -1,7 +1,8 @@
-## Test Hugo Site
+# Taking Hugo for a walk
+## Introduction
 Taking Hugo for a spin. My first Go project
 
-# Running Your Site Locally
+## Running Your Site Locally
 
 1. [Install Hugo](https://gohugo.io/getting-started/quick-start/#step-1-install-hugo)
 
